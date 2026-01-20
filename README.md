@@ -1,0 +1,1 @@
+I worked on a project where I analysed customer insights and built a predictive model to understand factors that influence buying behaviour. I practised my data analytics skills using a Jupyter Notebook and built my PowerPoint and communication skills by presenting insights in a real-world context.
